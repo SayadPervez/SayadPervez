@@ -24,6 +24,6 @@ I'm Sayad Pervez. Aka
     
 
 ### Am dying for a good interesting project idea. If u have any ideas, please contact me !!
-![Give_me_work](https://static.wikia.nocookie.net/bakerstreet/images/5/55/Sherlock-Holmes_Robert-Downey-Jr.jpg/revision/latest/scale-to-width-down/310?cb=20130210213249)
+![Give_me_work](https://github.com/SayadPervez/SayadPervez/blob/main/2cd43b_766b60755a9a4e6b98abe5131fdd5d4b_mv2.jpg?raw=true)
 ### More about me here: <https://sayadpervez.github.io/It-s_me/Pg1/index.html>
 ### Thank You
