@@ -12,6 +12,7 @@ I'm Sayad Pervez. Aka
         - javascript
         - C++
         - C
+        - Java
     - I've done various projects as
         - NLP Engineer
         - Full Stack Developer
