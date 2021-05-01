@@ -20,8 +20,6 @@ I'm Sayad Pervez. Aka
         - Blockchain Developer
 - 🔌 Extraordinary Engineer
     - I chose Electronics and Communication Engineering as my professional course for UG. Fascinated by how RC toys work, I've worked on various project using Programmable ICs and Arduino
-- 🎮 Gargantuan Gamer
-    - I play GTA Online Daily and yes I call myself a gamer. king-pvz_001 is my rockstar id. Feel free to add me up as your friend.
     
 
 ### Am dying for a good interesting project idea. If u have any ideas, please contact me !!
