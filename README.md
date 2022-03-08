@@ -24,5 +24,5 @@ I'm Sayad Pervez. Aka
 
 ### Am dying for a good interesting project idea. If u have any ideas, please contact me !!
 ![Give_me_work](https://github.com/SayadPervez/SayadPervez/blob/main/2cd43b_766b60755a9a4e6b98abe5131fdd5d4b_mv2.jpg?raw=true)
-### More about me here: [SayadPervez.github.io](https://sayadpervez.github.io/It-s_me/Pg1/index.html)
+### More about me here: [SayadPervez.github.io](https://sayadpervez.github.io/It-s_me/identity/index.html)
 ### Thank You
