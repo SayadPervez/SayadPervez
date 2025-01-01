@@ -10,7 +10,7 @@ Having a wide-field of interest in both Programming and Electronics, I chose Ele
 
 I am currently an ECE Engineer and a self-taught Programmer with good knowledge and experience, and I am eager to learn more and create awesome tools, gadgets, and software. All of my projects are listed on my personal website/portfolio, and majority of them are open source and available on GitHub.
 
-My hobbies include programming, circuit design, swimming, chess, and shuttle.
+My hobbies include swimming, astro-photography, bird watching, motor-cycling and trekking.
 
 ### More about me here: [SayadPervez.github.io](https://sayadpervez.github.io/It-s_me/Portfolio2025/)
 ### Thank You
