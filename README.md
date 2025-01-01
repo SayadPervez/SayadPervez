@@ -12,5 +12,5 @@ I am currently an ECE Engineer and a self-taught Programmer with good knowledge 
 
 My hobbies include programming, circuit design, swimming, chess, and shuttle.
 
-### More about me here: [SayadPervez.github.io](https://sayadpervez.github.io/It-s_me/identity/index.html)
+### More about me here: [SayadPervez.github.io](https://sayadpervez.github.io/It-s_me/Portfolio2025/)
 ### Thank You
